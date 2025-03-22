@@ -1,0 +1,8 @@
+create table cars ( 
+	make TEXT,
+	model TEXT,
+	production_year INTEGER,
+	price INTEGER,
+	engine_type TEXT, 
+	primary key (make,model)
+)
