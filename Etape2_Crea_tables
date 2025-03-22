@@ -1,8 +1,18 @@
-create table cars ( 
+create table car_data ( 
 	make TEXT,
 	model TEXT,
 	production_year INTEGER,
-	price INTEGER,
+	price FLOAT,
 	engine_type TEXT, 
+	primary key (make,model)
+)
+
+create table consumer_data ( 
+	country TEXT,
+	make TEXT,
+	model TEXT,
+	production_year INTEGER,
+	review_score FLOAT,
+	sales_volume INTEGER, 
 	primary key (make,model)
 )
