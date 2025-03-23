@@ -1,4 +1,4 @@
--- average car cost in every country by engine type -- 
+-- prix moyen d'une voiture par type de moteur  (Thermique / Electrique -- 
 
 select con.country, car.engine_type, avg(car.price) as average_price
 from consumers con
