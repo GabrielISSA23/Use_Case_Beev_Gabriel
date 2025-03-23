@@ -11,7 +11,7 @@ S'il n'existe pas, il est créé.
     Le fichier "create_tables.sql"  permettant la création des tables
     
 # Penser à adapter (si besoin): 
-    les identifiants    
-    les noms des bases de données   
-    le codeSQL pour créer les tables        
+    Les identifiants    
+    Les noms des bases de données   
+    Le codeSQL pour créer les tables        
     
