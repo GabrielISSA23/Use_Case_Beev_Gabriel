@@ -8,8 +8,8 @@ Si le fichier existe déjà, il est mis à jour.
 S'il n'existe pas, il est créé. 
 
 # Requirements  
-Le fichier "create_tables.sql"  permettant la création des tables
-Les fichiers car_data.csv et consumer_data.csv  
+Le fichier "create_tables.sql"  permettant la création des tables  
+Les fichiers car_data.csv et consumer_data.csv, contenant les données à uploader.
     
 # Penser à adapter (si besoin): 
 Les identifiants    
