@@ -9,6 +9,7 @@ S'il n'existe pas, il est créé.
 
 # Requirements  
     Le fichier "create_tables.sql"  permettant la création des tables
+    Les fichier car_data.csv et consumer_data.csv  
     
 # Penser à adapter (si besoin): 
     Les identifiants    
