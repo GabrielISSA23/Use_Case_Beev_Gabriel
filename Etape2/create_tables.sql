@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS cars (
+create table if not exists cars (
     make TEXT,
     model TEXT,
     year INTEGER,
@@ -7,7 +7,7 @@ CREATE TABLE IF NOT EXISTS cars (
     primary key (make,model,year)
 );
 
-CREATE TABLE IF NOT EXISTS consumers (
+create table if not exists consumers (
     country TEXT,
     make TEXT,
     model TEXT,
