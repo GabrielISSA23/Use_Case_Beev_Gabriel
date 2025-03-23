@@ -13,6 +13,6 @@ Les fichiers car_data.csv et consumer_data.csv, contenant les données à upload
     
 # Penser à adapter (si besoin): 
 Les identifiants    
-Les noms des bases de données   
+Les noms des fichiers .csv et leur forme  
 Le codeSQL pour créer les tables        
     
