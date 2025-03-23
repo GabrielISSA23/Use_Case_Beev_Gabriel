@@ -8,7 +8,7 @@ On voit 2 courbes, une courbe pour les voitures électriques et une courbe pour 
 ## Structure 
 Le fichier Q4_Script_Graph.py permet de lancer la réalisation des courbes.   
 Les fichiers .png donnent un aperçu du résultat  
-Les fichiers .sql montre de manière séparée les requêtes SQL envoyée à la base de données.   
+Les fichiers .sql montre de manière séparée les requêtes SQL envoyées à la base de données.   
 
 ## Comment le faire fonctionner ? 
 
